@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Calculator</title>
+    </head>
+    <body>
+        <font color="blue" size="20"><center>Calculator</center></font><br>
+        <img src="calculator.jpg" height="300" width="400"><br>
+        <form>
+        Input1 <input type="number" name="input1"><br>
+        Input2 <input type="number" name="input2"><br>
+        <select name="operation">
+            <option value="Select..">Select..</option>
+             <option value="ADD">ADD</option>
+             <option value="SUBTRACT">SUBTRACT</option>
+             <option value="MULTIPLY">MULTIPLY</option>
+             <option value="DIVIDE">DIVIDE</option>
+        </select><br>
+            <img src="calc.jpg" width="80">
+            <img src="reset.jpg" width="80">
+        </form>
+    </body>
+</html>
